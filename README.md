@@ -23,6 +23,6 @@ Note:
 
 - The Google-services.json file is not provided in the repository, and key.properties and .jks files for building the release mode of the Android platform are also not included.
 
-Android App Build Link: [Kalibre Task Android Build]([https://drive.google.com/file/d/14HstZOnyVw_pHZpwi6yKIbPx7fSI39ck/view?usp=share_link](https://drive.google.com/file/d/1o5nKR03b2omfDPmt7Bo1OhOTAbQc-Dol/view?usp=sharing))
+Android App Build Link: [Kalibre Task Android Build](https://drive.google.com/file/d/1o5nKR03b2omfDPmt7Bo1OhOTAbQc-Dol/view?usp=sharing)
 
 Please note that this project serves as a demonstration and does not contain sensitive files required for complete functionality. The purpose is to showcase the implementation of various features using Flutter and associated libraries.
